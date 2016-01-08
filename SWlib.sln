@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TraverseAll", "TravreseAll\TraverseAll.csproj", "{6F5CBB64-73A2-406F-961B-A967693BD487}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Drawings", "Drawings\Drawings.csproj", "{561F6D70-BF06-42CC-935C-32727C2978AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F5CBB64-73A2-406F-961B-A967693BD487}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F5CBB64-73A2-406F-961B-A967693BD487}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F5CBB64-73A2-406F-961B-A967693BD487}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F5CBB64-73A2-406F-961B-A967693BD487}.Release|Any CPU.Build.0 = Release|Any CPU
+		{561F6D70-BF06-42CC-935C-32727C2978AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{561F6D70-BF06-42CC-935C-32727C2978AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{561F6D70-BF06-42CC-935C-32727C2978AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{561F6D70-BF06-42CC-935C-32727C2978AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
